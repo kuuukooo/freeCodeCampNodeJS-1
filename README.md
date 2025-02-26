@@ -1,3 +1,4 @@
-# Timestamp Microservice
+# Microservicio de Tiempo
 
-This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
+Este código fue hecho con el boilerplate de FreeCodeCamp.
+Este es el primer proyecto de los 5 necesarios para la certificación en NodeJS de FreeCodeCamp.
